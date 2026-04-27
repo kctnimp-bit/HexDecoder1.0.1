@@ -1,0 +1,6 @@
+{
+  "name": "HexDecoder1.0.0",
+  "description": "인코딩 문제(글자 깨짐) 진단을 위한 전문 HEX 텍스트 변환기입니다. UTF-8, CP949, EUC-KR, UTF-16LE, UTF-16BE를 지원하며 실시간 미리보기와 엄격한 유효성 검사를 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
